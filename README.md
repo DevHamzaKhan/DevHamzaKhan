@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devhamzakhan&label=Profile%20views&color=0e75b6&style=flat" alt="devhamzakhan" /> </p>
 
-- 🔭 I’m currently working on [TheTopSolver](https://github.com/TheTopSolver/cp-learner)
+- 🔭 I’m currently working on [WizdomCode](https://github.com/WizdomCode/wizdomCode)
 
 - 🌱 I’m currently learning **Angular, Vue, TypeScript, and more JavaScript frameworks**
 
